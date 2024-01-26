@@ -1,5 +1,5 @@
 ## About Me
-**A quantitative storyteller, weaving narratives through data analysis !!**
+**I'm a quantitative storyteller, weaving narratives through data analysis !!**
 
 I'm passionate about transforming raw data into meaningful insights, with a flair for uncovering patterns and trends that drive business excellence. My expertise lies in leveraging cutting-edge analytics tools and machine learning techniques to solve complex problems and make informed decisions. I thrive at the nexus of data and product development. With a keen eye for user behavior and market trends, I've successfully integrated data-driven methodologies into product management. My approach involves translating data insights into features and improvements that resonate with users and drive product success.
 
@@ -26,6 +26,8 @@ I'm passionate about transforming raw data into meaningful insights, with a flai
 - Developed a dashboard that visualizes and reports key performing and warehouse metrics for every category, reducing the out-of-stock issues to nearly 2% and 12% improvement in inventory efficiency (using Tableau, SQL)
 - Developed a pipeline that scrapes around 50,000 data points from four websites, to compare and inform business heads about vital information like prices, quantity, and offers, thereby increasing the overall sales of Meesho’s products by 10%
 - Created a fraud detection algorithm that evaluates and detects fraud orders, reducing about 20% of fraud orders
+- Developed a system which rates suppliers based on the data like product orders, cancellations, refunds, and quality escalations which solves the customer trust issues with the products (using SQL)
+- Created a real-time dashboard that visualizes and automatically reports KPIs for each category, thereby reducing the out of stock issues to nearly 2% and overall costs by 36% (using Tableau, SQL).
 
 **Business Analyst @ BrightChamps**
 - Analyzed KPIs for each marketing campaign, executed A/B tests to evaluate diverse elements (e.g., poster content, campaign streams) in ongoing campaigns, resulting in a notable 23% improvement in click-through rate
