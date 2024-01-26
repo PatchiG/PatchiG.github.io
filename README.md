@@ -40,7 +40,7 @@ I'm passionate about transforming raw data into meaningful insights, with a flai
 
 ## Projects
 **Exploratory Data Analysis of Airbnb**
-Personal Project
+-- Personal Project
 - Analyzed the airbnb’s customers, hosts, business and studied the potential factors for ban on airbnb in New York
 - Refined the data through arbitrary imputation, data transformation, duplicate values elimination, and subsequently developed data visualizations like heat maps, geological maps, bar charts, and box plots, for comprehensive analysis
 - Identified key factors contributing to the eventual prohibition of Airbnb in New York, focusing on issues such as unsatisfactory city regulations, prevalence of short-term leases, and elevated rental prices
