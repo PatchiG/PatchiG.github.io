@@ -11,7 +11,7 @@ I'm passionate about transforming raw data into meaningful insights, with a flai
 - Business Analytics: Specialized in transforming raw data into actionable intelligence that empowers businesses to make informed decisions and achieve sustainable growth.
 - Product Analytics: Proficient in utilizing data to inform product development and optimization.
 
-#### Technical Skills : Python, SQL, R Programming, Tableau, PowerBi, AWS
+#### Technical Skills : Python, SQL, R Programming, C Programming, Java, Tableau, PowerBi, AWS, MS Office, Atlassian Jira
 
 ## Education
 - M.S., Information Management | University Of Maryland College Park (June 2025)
@@ -38,3 +38,40 @@ I'm passionate about transforming raw data into meaningful insights, with a flai
 - Automated test scripts in Java and Selenium for an internal trading platform using the bootstrap framework to reduce the human labor involvement and time to completion by 33%
 - Created automation mailing feature that sends testing progress reports to the business stakeholders, reducing the physical involvement and improving the time efficiency by about 10%
 
+## Projects
+**Exploratory Data Analysis of Airbnb**
+Personal Project
+- Analyzed the airbnb’s customers, hosts, business and studied the potential factors for ban on airbnb in New York
+- Refined the data through arbitrary imputation, data transformation, duplicate values elimination, and subsequently developed data visualizations like heat maps, geological maps, bar charts, and box plots, for comprehensive analysis
+- Identified key factors contributing to the eventual prohibition of Airbnb in New York, focusing on issues such as unsatisfactory city regulations, prevalence of short-term leases, and elevated rental prices
+
+**Credit Card Approval Prediction Model**
+Personal Project
+- Engineered a logistic regression algorithm in Python, designed to forecast customer approval status by analyzing variables such as credit score, income, employment status, education level, and debt
+- Preprocessed the raw data using missing value imputation, feature engineering, and data normalization
+- Enhanced the predictive accuracy to 83% by innovatively converting decision tree outputs into categorical variables and subsequently integrating them into the logistic regression framework for refined analysis and prediction
+
+**Superstore Market Expansion**
+Associated with Meesho
+- Gathered industry reports and market data to select potential markets considering factors like market size, growth potential, competition, purchasing power and regulatory requirements
+- Solved the potential hurdles in supply chain processes and products procurement by analyzing customer behavior(collected through surveys), demographic data, geographic location, trends data
+- Created dashboards and reports for each category and the last mile team to measure the KPIs performance in the new market and consecutively communicated key insights with the leadership
+
+**Warehouse Management System**
+Associated with Meesho
+- Streamlined a data warehouse solution for the supply chain team by incorporating the vital data collected in google sheets via the AWS cloud system and created a warehouse database
+- Created automated reports(using SQL) like sales report, product inventory report, supplier performance report and a realtime dashboard which visualizes the important metrics for a supplier
+- Implemented data security measures, such as user authentication, to ensure that only authorized users can access and modify the database
+
+**Sentiment Analysis on Twitter**
+MITEdx Analytics Edge Certification
+- Analyzed tweets for Apple Inc., if opinion in the post is positive, neutral, or negative and the tweets have been collected using the Twitter API
+- Noisy data is preprocessed using Natural Language Processing (NLP) techniques like tokenization, stemming, and irregularities elimination using the R console
+- Created a classification tree model and random forest model on data with 87% prediction accuracy
+
+
+**Market Entry Strategy Analysis**
+Associated with BITS Pilani, Hyderabad
+- Analyzed the potential entry of new "Electric Car" by Maruti Suzuki for Indian market and possible threats were identified by SWOT analysis 
+- Investment opportunities were discovered by using tools like Porter's five forces, Life cycle approach, Wholesale strategy management process 
+- Conducted market and demand analysis which helped in forecasting demand for new product and market strategy
