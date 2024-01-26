@@ -69,7 +69,6 @@ MITEdx Analytics Edge Certification
 - Noisy data is preprocessed using Natural Language Processing (NLP) techniques like tokenization, stemming, and irregularities elimination using the R console
 - Created a classification tree model and random forest model on data with 87% prediction accuracy
 
-
 **Market Entry Strategy Analysis**
 Associated with BITS Pilani, Hyderabad
 - Analyzed the potential entry of new "Electric Car" by Maruti Suzuki for Indian market and possible threats were identified by SWOT analysis 
